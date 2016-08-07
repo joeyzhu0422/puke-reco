@@ -2,24 +2,13 @@
 
 Libsvm 在 http://www.csie.ntu.edu.tw/~cjlin/libsvm 可以获取到。
 
-Table of Contents
+目录
 =================
 
 - 初步运行
 - 特征获取
 - 创建训练集合
 - 结果执行
-- `svm-scale' Usage
-- Tips on Practical Use
-- Examples
-- Precomputed Kernels
-- Library Usage
-- Java Version
-- Building Windows Binaries
-- Additional Tools: Sub-sampling, Parameter Selection, Format checking, etc.
-- MATLAB/OCTAVE Interface
-- Python Interface
-- Additional Information
 
 初步运行
 ===========
